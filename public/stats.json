@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---kierans-story": [
+      "path---kierans-story-541a954dfff80148dc65.js",
+      "path---kierans-story-541a954dfff80148dc65.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-74962cb4bfe172c39521.js",
+      "component---src-pages-index-js-74962cb4bfe172c39521.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---child-loves-sports": [
+      "path---child-loves-sports-d53049ef7ebd2fbece47.js",
+      "path---child-loves-sports-d53049ef7ebd2fbece47.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-6f670729e79c286bf99b.js",
+      "component---src-templates-blog-post-js-6f670729e79c286bf99b.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-d90569f7fb0616da059a.js",
+      "component---src-layouts-index-js-d90569f7fb0616da059a.js.map"
+    ],
+    "path---index": [
+      "path---index-6f8b5aca193334f54ae4.js",
+      "path---index-6f8b5aca193334f54ae4.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a0bef8a95590ded32726.js",
+      "commons-a0bef8a95590ded32726.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-f0cd47ddfb41fa439af0.js",
+      "app-f0cd47ddfb41fa439af0.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---test-story": [
+      "path---test-story-1132a34f0972ba616674.js",
+      "path---test-story-1132a34f0972ba616674.js.map"
+    ]
+  }
+}
