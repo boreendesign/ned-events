@@ -61,7 +61,7 @@ module.exports = {
 
           // if you're data is really simple, this should be fine too
           {
-            type: "Stories",
+            type: "Events",
             path: "posts",
           }
         ]

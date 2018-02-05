@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import Script from 'react-load-script';
+import Timestamp from 'react-timestamp';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -18,8 +19,9 @@ export default class IndexPage extends React.Component {
   }
 
   render() {
+    console.log(this.props);
     const { data } = this.props;
-    const { edges: posts } = data.allStories;
+    const { edges: posts } = data.allEvents;
 
     return (
       <section className="section">
@@ -36,19 +38,13 @@ export default class IndexPage extends React.Component {
             return (
                  <div className="content" style={{ border: '1px solid #eaecee', padding: '2em 4em' }} key={post.id}>
                    <p>
-                     <Link className="has-text-primary" to={post.path}>
                        {post.title}
-                     </Link>
                      <span> &bull; </span>
-                     <small>{post.published_date}</small>
+                   <small><Timestamp time={post.event_start_date} format='date' /> <Timestamp time={post.event_end_date} format='date' /></small>
                    </p>
                    <p>
-                     {post.summary}
-                     <br />
-                     <br />
-                     <Link className="button is-small" to={post.path}>
-                       Contact Us About this event
-                     </Link>
+                     {post.body}
+
                    </p>
                  </div>
                );
@@ -64,14 +60,15 @@ export default class IndexPage extends React.Component {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allStories(sort: {fields: [published_date], order: ASC}) {
+    allEvents(sort: {fields: [published_date], order: ASC}) {
           edges {
             node {
               body,
               id,
               title,
               published_date,
-              summary
+              event_start_date,
+              event_end_date
             }
           }
         }

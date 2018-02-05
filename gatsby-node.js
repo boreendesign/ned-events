@@ -2,24 +2,26 @@ const path = require('path');
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
-
+//sort: {fields: [published_date], order: ASC}
   return graphql(`
     {
-      allStories{
-        edges{
-        node {
-          body,
-          id,
-          title,
-          page_type
-          }
+      allEvents {
+          edges {
+            node {
+              body,
+              id,
+              title,
+              published_date,
+              event_start_date,
+              event_end_date
+            }
           }
         }
     }
   `)
   .then(result => {
-    //console.log('node');
-    //console.log(result.data);
+    console.log('node');
+    console.log(result.data);
     if (result.errors) {
       result.errors.forEach(e => console.error(e.toString()));
       return Promise.reject(result.errors);

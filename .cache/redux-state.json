@@ -1,0 +1,1033 @@
+{
+  "nodes": {
+    "0": {
+      "body": "Bilingual Whiz Kidz, Dallas Texas. Introduction to Early Learning with Executive Function and Self Regulation. Online course for Early Learning faculty at bilingual daycare center in Texas.",
+      "event_end_date": "",
+      "event_start_date": "2018-03-01T00:00:00.000Z",
+      "page_type": "event",
+      "published_date": "",
+      "title": "Bilingual Whiz Kidz",
+      "id": "0",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "28b675856cfc1ca1311983c16a7632d4",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "1": {
+      "body": "Introduction to Neuroscience of Learning On-line lecture for teachers and parents. Focus on the difference between behaviorist approach to schooling versus a cognitivist approach.",
+      "event_end_date": "",
+      "event_start_date": "2018-06-01T00:00:00.000Z",
+      "page_type": "event",
+      "published_date": "",
+      "title": "iCNtl Texas Hub",
+      "id": "1",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "e69673e3f3196b73f8a90f6a02928beb",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "2": {
+      "body": "African lecture tour and face-to-face teacher professional development in several cities and towns in Kenya. University of Nairobi, Tradewinds International School Mombasa and many schools along that route way to the coast.",
+      "event_end_date": "1/31/2018",
+      "event_start_date": "2018-01-15T00:00:00.000Z",
+      "page_type": "event",
+      "published_date": "",
+      "title": "iCNtl Africa Launch",
+      "id": "2",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "c59203202691dfbe537013f39e294083",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "3": {
+      "body": "PLC Sococo 7:00pm - February Topic for discussion: Orchid and Dandelion, ACEs and SEL",
+      "event_end_date": "",
+      "event_start_date": "2018-01-02T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl PLC WA State",
+      "id": "3",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "1f2963d0b5013ecd7a5000ca862ed08b",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "4": {
+      "body": "Jefferson Educational Society, Erie PA - Introduction to Neuroscience of Learning",
+      "event_end_date": "",
+      "event_start_date": "2018-12-02T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Lecture Tour",
+      "id": "4",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "1c08ed5b22aba8a5820e685be71cc65c",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "5": {
+      "body": "Methods and Science that underpins Neural Education - Lecture for faculty at Lake Erie College of Osteopathic Medicine (LECOM), with Teleconference to two sister campuses in Greensburg, PA and Bradenton, FL",
+      "event_end_date": "",
+      "event_start_date": "2018-02-13T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Lecture Tour",
+      "id": "5",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "b9813566e008c97d02fcd97b10db295a",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "6": {
+      "body": "Connecting Neuroscience with teaching and Learning at the annual Northwest Council for Computer Education (NCCE) Conference (WA Convention Center, Seattle). Co-presenting with Neural Educators Missy Widmann and Karen Foley.",
+      "event_end_date": "",
+      "event_start_date": "2018-02-15T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Conference",
+      "id": "6",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "ee115258fc72ddcffc6c83cee4d98ed0",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "7": {
+      "body": "Pierce County Skills Center, neuroscience course for professional development focused on Technology and Multitasking for adolescent learners in the So Puget Sound region. With Missy Widmann",
+      "event_end_date": "",
+      "event_start_date": "2018-02-20T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl PD",
+      "id": "7",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "db96837495d55d45185d7fb8180debe6",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "8": {
+      "body": "PLC Sococo 7:00pm - March Topic for discussion: Technology and Multitasking in Adolescent Learning",
+      "event_end_date": "",
+      "event_start_date": "2018-01-03T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl PLC WA State",
+      "id": "8",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "d2087d2803e3636014f9b0cefb8514c7",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "9": {
+      "body": "Introduction to Neuroscience of Learning On-line lecture for teachers and parents. Focus on Self Regulation and Working Memory",
+      "event_end_date": "",
+      "event_start_date": "2018-03-03T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Texas Hub",
+      "id": "9",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "d86844848b7a42b0db1038f4a1346486",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "10": {
+      "body": "PLC Sococo 7:00pm - April Topic for discussion: Neuroscience Attention, Engagement and Adolescent Learning",
+      "event_end_date": "",
+      "event_start_date": "2018-06-04T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl PLC WA State",
+      "id": "10",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "a2bcab64f80d403866a751c363f32835",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "11": {
+      "body": "Neuroscience and Adolescent Learning Puyallup WA. Social Emotional engagement strategies for adolescent learners",
+      "event_end_date": "",
+      "event_start_date": "2018-04-26T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Day Camp",
+      "id": "11",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "32594db491c5a750da9f42e55255a1d9",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "12": {
+      "body": "Lecture at NUI Cork or galway",
+      "event_end_date": "",
+      "event_start_date": "2018-05-20T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Europe",
+      "id": "12",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "d9cbb1a513490d0cc230b41354ff1e4e",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "13": {
+      "body": "Connecting Neuroscience with teaching and Learning at the annual ICELW in Columbia College NY",
+      "event_end_date": "",
+      "event_start_date": "2018-06-15T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Conference",
+      "id": "13",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "f3390be83dca8f76a56cd38d9039e4d6",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "14": {
+      "body": "Intro to Neuro with PLU campus for teachers 101",
+      "event_end_date": "",
+      "event_start_date": "2018-12-08T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Summer Institutes",
+      "id": "14",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "44bd2d53db93112a9687e7fa0c606aa8",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "15": {
+      "body": "Advanced Course in Neuro with PLU campus for teachers 201",
+      "event_end_date": "",
+      "event_start_date": "2018-08-20T00:00:00.000Z",
+      "page_type": "",
+      "published_date": "",
+      "title": "iCNtl Summer Institutes",
+      "id": "15",
+      "parent": "root",
+      "children": [],
+      "internal": {
+        "type": "Events",
+        "contentDigest": "2adceaa4e5234aef6fd7cfb306fd5470",
+        "owner": "gatsby-source-firebase"
+      }
+    },
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/smorrissey/React/gatsby/ned-events/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1517848068854,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/smorrissey/React/gatsby/ned-events/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dbb499afc96021e3f92f01b9372507c6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d5b2174160a1762bee634f33753cfc71",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0f87cf08e265c61bc61bc16a0d402fd9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "14d321cb67827ef12a9fb0b5fb6e851a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6d78622ed13f6caf82b01bcbe91d51bd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eb85d13352649609b3070f7a8b2cd22b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6759e3fe9628d9ec2c4cb9df9e9bd4a4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cf477a20b6d179b5b04b86b2041d200b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.14",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.7"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "49f8178c6d3ec21389689810c26d5f41",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-91364304-4",
+        "anonymize": true
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3e6f33f3f31de7c09fe8c4ca2198cd78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6128348e45d51f73502a0cee1cfbd8f6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-firebase": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-source-firebase",
+      "id": "Plugin gatsby-source-firebase",
+      "name": "gatsby-source-firebase",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "credential": {
+          "type": "service_account",
+          "project_id": "ned-events",
+          "private_key_id": "80d79de14676e72926bebfa163b80394d3544733",
+          "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVmFOZ1+EfMFEL\nZCz3vYRhKSKvGd9rjDI3QPTDuJC7qMcV/CzmgLB/kwrcBY7F/Zo0dUbL/iMK3tHK\nsCR8cetWM6fBlqkiCpAHEcLrGBWHagtpVrE2GMIotwqwHcA9bTEjyAqt4onEmav5\n18ZkluRMn5lmgVze21gKLo1asmUxHSG2ymrQ60MFDbK0Dk0xqHj+hqSqXGX+g+yH\n1GnvPOHxxP04soAhXrCm1DI3yGtehvuVf/Z4xwc/5CjY4T822j8F6tBklswEM0d/\nk/VYjLwDJtXKfTfA7gq2iAq375amEz0Z8L1hRgcNBlz283w9/hNw0c6DZKZy/Kn+\nLaCv6uH7AgMBAAECggEAU79GCCv8uJ3ZKP4+I2TLYs0eLEmYsDJn/gIZ9iOHnAyx\nAo29jSMoEN02hM4pDLhCng7dk14xnzF+UFp/88s22rWmMOFBr3c0wZDVPBhVWKLb\nlpHHKc7LUety5VrE5VDK05y7kzIfklYud+eCgi4nlWN+YhKWt0qJWnSmN8l6o6Zw\nxlMRUfyo2gdRjvG9zWnlE9YzZdLYw5CgvjgF2J3VHZH9uHCgPNbsVeYOtOfA0Aiu\nqiq9wPS1aUDICqTPNEE/9YtR/t2HHbAK6XJBE1zs93h1bbL/q3AU6oxIgic0ga+G\nA5bos/YZIG+2cG+n0Iffbw+ksnEj5jOnGQuAsQoEAQKBgQD3jTm96QNMCm2MhxD7\nXQdCabzK90vI9RsDC5tbX3NDaWN9eqdmQb6XjayTbGHjyG7jfgMcZ6vkTpWKs8Wy\n3XsXJzC4WKHleRX227GyNsJacO5nOcRdeDGt3UMFiwyNwYs5ifX+MFRr5iRwelsK\nvIZVbj8WMRqo1fO6r1I2kAluqwKBgQDc4m73IxCBHTbUBWzGM+Am+32Vg9HSsQHl\nMWA6tbBMAhfm7lvU4Kt7zMb6BdY2sRkQQK3ead5XPzFvKrfS375G4sJOx5Pspftv\noQr24bsTQsi4yREHQEo6JwvDrTVhHOtnegM7aqjJyqjy3H6yijzsU7fSwu2iM+ng\n1dhJ9bEZ8QKBgAUn7tzyvnvV98QmiAcEQAN1GlaL4gs0d7SPiFPV4Bu2VTkm1de+\nZM7ZR4/mgP9yjES2ui/cROtDa7/w0JxSGp831L7yMaUK6ZczqjbRBylFEuIZhOqB\nd19srVmvNLq7HkA7jGEX9post/OTyNOna5DZ8/xtV2XO1v27axXx2BBzAoGAWJ0u\nz07t7B6ARIb4oHtnTbxPIZCEuPXyQLSSWntRguzEEg1GIh0QLtZ0bRGyYrahy3dn\nSXdHj9D2UBbfMGY6u811Do3atnHQcXQ2Jd1hY9TDGf7wKeyM2s+XVKVEaPVlK1oz\nub6MgIghR21WFuKGlnjvoko5c31IMr8XynQa3MECgYAxpcAXBGNvcSt7bOql6iEY\nkLgin5IY4yX45mXXwF3zqcLpSLzCphnuDwtaVsVykDWMLqfFfwy27ZEZnImoqCra\nMH8ypplk/IKYFB35hJTKQOHThvf26lLFjBrScu6I1Qc6DrFcQvwkch+cz3MCueuY\nSvF01FZNt8ZqPkANT1NZpQ==\n-----END PRIVATE KEY-----\n",
+          "client_email": "firebase-adminsdk-xs86x@ned-events.iam.gserviceaccount.com",
+          "client_id": "115492719318533686596",
+          "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+          "token_uri": "https://accounts.google.com/o/oauth2/token",
+          "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+          "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xs86x%40ned-events.iam.gserviceaccount.com"
+        },
+        "databaseURL": "https://ned-events.firebaseio.com",
+        "types": [
+          {
+            "type": "Events",
+            "path": "posts"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events/node_modules/gatsby-source-firebase",
+      "packageJson": {
+        "name": "gatsby-source-firebase",
+        "description": "Gatsby plugin to turn Firebase into a Gatsby data source.",
+        "version": "1.0.0",
+        "main": "gatsby-node.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "firebase"
+        ],
+        "author": {
+          "name": "Ryan Florence",
+          "email": "rpflorence@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "firebase-admin",
+            "version": "^5.2.1"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8292ade0b7bd2c7090ca5f0a6c9057bd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/smorrissey/React/gatsby/ned-events",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "f0ccfb748df79ee66acb48ebf6fcad6c",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/smorrissey/React/gatsby/ned-events",
+      "packageJson": {
+        "name": "gatsby-starter-netlify-cms",
+        "description": "Example Gatsby, and Netlify CMS project",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Austin Green",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bulma",
+            "version": "^0.6.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.127"
+          },
+          {
+            "name": "gatsby-cli",
+            "version": "^1.1.25"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.13"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.18"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.18"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.5"
+          },
+          {
+            "name": "gatsby-source-firebase",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.17"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.13"
+          },
+          {
+            "name": "react-load-script",
+            "version": "0.0.6"
+          },
+          {
+            "name": "react-timestamp",
+            "version": "^4.3.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7ee34eb5731a3efe04260b6e9b49b4cb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-02-05T16:27:46.195Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0141c581271860b4b90495cf843b33a2",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1517848068965,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7613e0e2ec7db7df3d3f84a4560c0d35",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1517848068967,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "754ac09a667ff88acc1df98bdf744823",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1517848068969,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7a6bdd61cdf0c59c95a633b33bf9bfb7",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "b5bcd8bd3fc954725f083c07916d3d29"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "Events": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
