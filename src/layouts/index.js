@@ -10,11 +10,11 @@ const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="NED Stories" style={{ height: '35px',width:'200px' }} />
+        <a href="http://neuraleducation.com" className="">
+          <figure className="">
+            <img src={logo} alt="NED Stories" style={{ height: '135px',width:'200px' }} />
           </figure>
-        </Link>
+        </a>
       </div>
       <div className="navbar-end">
 
@@ -25,7 +25,7 @@ const Navbar = () => (
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | NED Learning Stories of Success" />
+    <Helmet title="Home | Neural Education" />
     <Navbar />
     <div>{children()}</div>
   </div>
