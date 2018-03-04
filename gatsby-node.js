@@ -13,7 +13,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
                 title,
                 published_date,
                 event_start_date,
-                event_end_date
+                event_end_date,
+                link_text,
+                link_location                
               }
             }
           }

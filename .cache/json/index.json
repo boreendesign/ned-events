@@ -9,7 +9,9 @@
                         "title": "iCNtl PLC WA State",
                         "published_date": "",
                         "event_start_date": "2018-01-02T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -19,7 +21,9 @@
                         "title": "Bilingual Whiz Kidz",
                         "published_date": "",
                         "event_start_date": "2018-01-03T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -29,7 +33,9 @@
                         "title": "iCNtl PLC WA State",
                         "published_date": "",
                         "event_start_date": "2018-01-03T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -39,7 +45,9 @@
                         "title": "iCNtl Texas Hub",
                         "published_date": "",
                         "event_start_date": "2018-01-06T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -49,7 +57,9 @@
                         "title": "iCNtl Africa Launch",
                         "published_date": "",
                         "event_start_date": "2018-01-15T00:00:00.000Z",
-                        "event_end_date": "2018-01-31T00:00:00.000Z"
+                        "event_end_date": "2018-01-31T00:00:00.000Z",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -59,7 +69,9 @@
                         "title": "iCNtl Lecture Tour",
                         "published_date": "",
                         "event_start_date": "2018-02-13T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -69,7 +81,9 @@
                         "title": "iCNtl Conference",
                         "published_date": "",
                         "event_start_date": "2018-02-15T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -79,7 +93,9 @@
                         "title": "iCNtl PD",
                         "published_date": "",
                         "event_start_date": "2018-02-20T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -89,7 +105,9 @@
                         "title": "iCNtl Texas Hub",
                         "published_date": "",
                         "event_start_date": "2018-03-03T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -99,7 +117,9 @@
                         "title": "iCNtl Day Camp",
                         "published_date": "",
                         "event_start_date": "2018-04-26T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -109,7 +129,9 @@
                         "title": "iCNtl Europe",
                         "published_date": "",
                         "event_start_date": "2018-05-20T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -119,7 +141,9 @@
                         "title": "iCNtl PLC WA State",
                         "published_date": "",
                         "event_start_date": "2018-06-04T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -129,7 +153,9 @@
                         "title": "iCNtl Conference",
                         "published_date": "",
                         "event_start_date": "2018-06-15T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -139,7 +165,9 @@
                         "title": "iCNtl Summer Institutes",
                         "published_date": "",
                         "event_start_date": "2018-08-20T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "Sign Up",
+                        "link_location": "http://neuraleducation.com/#five"
                     }
                 },
                 {
@@ -149,7 +177,9 @@
                         "title": "iCNtl Lecture Tour",
                         "published_date": "",
                         "event_start_date": "2018-12-02T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "",
+                        "link_location": ""
                     }
                 },
                 {
@@ -159,7 +189,9 @@
                         "title": "iCNtl Summer Institutes",
                         "published_date": "",
                         "event_start_date": "2018-12-08T00:00:00.000Z",
-                        "event_end_date": ""
+                        "event_end_date": "",
+                        "link_text": "Sign Up",
+                        "link_location": "http://neuraleducation.com/#five"
                     }
                 }
             ]

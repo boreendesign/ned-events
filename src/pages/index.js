@@ -44,6 +44,9 @@ export default class IndexPage extends React.Component {
                  {post.event_end_date != '' &&
                      <span> to <Timestamp time={post.event_end_date} format='date' /></span>
                  }
+                 {post.link_location != '' &&
+                    <a target = '_blank' className = "event_info" href ={post.link_location}>{post.link_text}</a>
+                 }
 
                   </small>
                    </p>
@@ -73,7 +76,10 @@ export const pageQuery = graphql`
               title,
               published_date,
               event_start_date,
-              event_end_date
+              event_end_date,
+              link_text,
+              link_location
+
             }
           }
         }
