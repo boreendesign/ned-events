@@ -5,18 +5,18 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 //sort: {fields: [published_date], order: ASC}
   return graphql(`
     {
-      allEvents {
-          edges {
-            node {
-              body,
-              id,
-              title,
-              published_date,
-              event_start_date,
-              event_end_date
+      allEvents(sort: {fields: [event_start_date], order: ASC}) {
+            edges {
+              node {
+                body,
+                id,
+                title,
+                published_date,
+                event_start_date,
+                event_end_date
+              }
             }
           }
-        }
     }
   `)
   .then(result => {

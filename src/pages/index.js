@@ -31,7 +31,7 @@ export default class IndexPage extends React.Component {
         />
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Upcoming Neural Education Events</h1>
+            <h1 className="has-text-weight-bold is-size-2">Neural Education Events</h1>
           </div>
           {posts.map(({ node: post }) => {
             post.path = (post.title).replace(/ /g,"_").toLowerCase()
@@ -40,7 +40,12 @@ export default class IndexPage extends React.Component {
                    <p>
                        {post.title}
                      <span> &bull; </span>
-                   <small><Timestamp time={post.event_start_date} format='date' /> <Timestamp time={post.event_end_date} format='date' /></small>
+                   <small><Timestamp time={post.event_start_date} format='date' />
+                 {post.event_end_date != '' &&
+                     <span> to <Timestamp time={post.event_end_date} format='date' /></span>
+                 }
+
+                  </small>
                    </p>
                    <p>
                      {post.body}
@@ -60,7 +65,7 @@ export default class IndexPage extends React.Component {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allEvents(sort: {fields: [published_date], order: ASC}) {
+    allEvents(sort: {fields: [event_start_date], order: ASC}) {
           edges {
             node {
               body,

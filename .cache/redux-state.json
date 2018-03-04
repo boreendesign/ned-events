@@ -3,7 +3,7 @@
     "0": {
       "body": "Bilingual Whiz Kidz, Dallas Texas. Introduction to Early Learning with Executive Function and Self Regulation. Online course for Early Learning faculty at bilingual daycare center in Texas.",
       "event_end_date": "",
-      "event_start_date": "2018-03-01T00:00:00.000Z",
+      "event_start_date": "2018-01-03T00:00:00.000Z",
       "page_type": "event",
       "published_date": "",
       "title": "Bilingual Whiz Kidz",
@@ -12,14 +12,14 @@
       "children": [],
       "internal": {
         "type": "Events",
-        "contentDigest": "28b675856cfc1ca1311983c16a7632d4",
+        "contentDigest": "7b9a528044f24c9fff19c5ff022ce270",
         "owner": "gatsby-source-firebase"
       }
     },
     "1": {
       "body": "Introduction to Neuroscience of Learning On-line lecture for teachers and parents. Focus on the difference between behaviorist approach to schooling versus a cognitivist approach.",
       "event_end_date": "",
-      "event_start_date": "2018-06-01T00:00:00.000Z",
+      "event_start_date": "2018-01-06T00:00:00.000Z",
       "page_type": "event",
       "published_date": "",
       "title": "iCNtl Texas Hub",
@@ -28,13 +28,13 @@
       "children": [],
       "internal": {
         "type": "Events",
-        "contentDigest": "e69673e3f3196b73f8a90f6a02928beb",
+        "contentDigest": "1a4bfedf0d848aeff494b7e6e6c158d8",
         "owner": "gatsby-source-firebase"
       }
     },
     "2": {
       "body": "African lecture tour and face-to-face teacher professional development in several cities and towns in Kenya. University of Nairobi, Tradewinds International School Mombasa and many schools along that route way to the coast.",
-      "event_end_date": "1/31/2018",
+      "event_end_date": "2018-01-31T00:00:00.000Z",
       "event_start_date": "2018-01-15T00:00:00.000Z",
       "page_type": "event",
       "published_date": "",
@@ -44,7 +44,7 @@
       "children": [],
       "internal": {
         "type": "Events",
-        "contentDigest": "c59203202691dfbe537013f39e294083",
+        "contentDigest": "e70ce49b6450b02d8020467730d80b67",
         "owner": "gatsby-source-firebase"
       }
     },
@@ -257,23 +257,13 @@
       }
     },
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/smorrissey/React/gatsby/ned-events/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1517848068854,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/smorrissey/React/gatsby/ned-events/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dbb499afc96021e3f92f01b9372507c6",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -835,7 +825,7 @@
       "resolve": "/Users/smorrissey/React/gatsby/ned-events",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "f0ccfb748df79ee66acb48ebf6fcad6c",
+      "version": "69c0b411b45e15eca232669bf9abc1fc",
       "pluginOptions": {
         "plugins": []
       },
@@ -928,7 +918,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7ee34eb5731a3efe04260b6e9b49b4cb",
+        "contentDigest": "5c6165d7decd6db334d44deeb28e7494",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -937,16 +927,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-05T16:27:46.195Z",
+      "buildTime": "2018-03-04T20:59:26.595Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0141c581271860b4b90495cf843b33a2",
+        "contentDigest": "76a2bed5906a16164502ea9c9f402822",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -959,7 +947,7 @@
       "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1517848068965,
+      "updatedAt": 1520197170634,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
@@ -968,7 +956,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7613e0e2ec7db7df3d3f84a4560c0d35",
+        "contentDigest": "5e9e5df9fadfd75f5c92965c64b9bd61",
         "owner": "internal-data-bridge"
       }
     },
@@ -980,7 +968,7 @@
       "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1517848068967,
+      "updatedAt": 1520197170639,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/index.js",
@@ -989,7 +977,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "754ac09a667ff88acc1df98bdf744823",
+        "contentDigest": "12171b3985a2fa71001cb7c5b3e5d21d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1001,7 +989,7 @@
       "component": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1517848068969,
+      "updatedAt": 1520197170645,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/smorrissey/React/gatsby/ned-events/src/pages/404.js",
@@ -1010,14 +998,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7a6bdd61cdf0c59c95a633b33bf9bfb7",
+        "contentDigest": "63d143be37ff43272bc8043235dcee26",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b5bcd8bd3fc954725f083c07916d3d29"
+    "PLUGINS_HASH": "1413951b2bc5d817e2ffc355465a1664"
   },
   "componentDataDependencies": {
     "nodes": {},
