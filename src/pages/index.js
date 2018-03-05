@@ -44,9 +44,7 @@ export default class IndexPage extends React.Component {
                  {post.event_end_date != '' &&
                      <span> to <Timestamp time={post.event_end_date} format='date' /></span>
                  }
-                 {post.link_location != '' &&
-                    <a target = '_blank' className = "event_info" href ={post.link_location}>{post.link_text}</a>
-                 }
+
 
                   </small>
                    </p>
@@ -54,6 +52,9 @@ export default class IndexPage extends React.Component {
                      {post.body}
 
                    </p>
+                   {post.link_location != '' &&
+                      <a target = '_blank' className = "event_info" href ={post.link_location}>{post.link_text}</a>
+                   }                   
                  </div>
                );
 
